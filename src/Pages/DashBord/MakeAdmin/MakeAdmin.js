@@ -28,7 +28,7 @@ const MakeAdmin = () => {
             <small className="text-light">#make_admin</small>
             <div>
                 <div>
-                    <input onBlur={handleOnBlur} type="text" /><br />
+                    <input placeholder="put your email" onBlur={handleOnBlur} type="text" /><br />
                     <button onClick={handleAdmin}>Make admin</button>
                 </div>
             </div>
