@@ -34,12 +34,13 @@ const Register = () => {
 
     const savedUser = (name,email,role) => {
         const user = {name,email,role:role}
-        fetch('https://calm-stream-31615.herokuapp.com/user',{
+        fetch('https://calm-stream-31615.herokuapp.com/users',{
             method:'POST',
             headers:{'content-type':'application/json'},
             body:JSON.stringify(user)
         })
-        .then()
+        .then(res => res.json())
+        .then(data => console.log(data))
 
     }
     return (
