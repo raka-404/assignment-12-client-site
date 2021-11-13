@@ -4,35 +4,35 @@ this is diamond web site
 
 # Available Scripts
 
-## Bootstrap
+### Bootstrap
 
-## Google Web Fonts
+### Google Web Fonts
 
-## Included RTL Language Support
+### Included RTL Language Support
 
-## HTML5 / CSS3
+### HTML5 / CSS3
 
-## Smarty Framework
+### Smarty Framework
 
-## Icon Fonts
+### Icon Fonts
 
-## Shopping Cart Dropdown from header
+### Shopping Cart Dropdown from header
 
-## Back to top button
+### Back to top button
 
-## Clean, modern design
+### Clean, modern design
 
-## Easy to Use and Easy Customize
+### Easy to Use and Easy Customize
 
-## Well Documented
+### Well Documented
 
-## Free Lifetime Updates
+### Free Lifetime Updates
 
-## Well-structured and commented code for easy customization
+### Well-structured and commented code for easy customization
 
-## and Many More…
+### and Many More…
 
-## And also
+### And also
 
 ### node js
 
